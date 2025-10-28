@@ -1,0 +1,8 @@
+X :{'di', 'ra', 'ad', 'ar', 'pa', 'ap', 'se', 'is'} Y :{'gr', 'ph', 'ra', 'ar', 'ag', 'pa', 'ap'}
+
+X | Y :{'gr', 'di', 'ra', 'ph', 'ad', 'ar', 'ag', 'pa', 'ap', 'se', 'is'}
+X & Y :{'ra', 'pa', 'ap', 'ar'}
+X - Y :{'di', 'ad', 'se', 'is'}
+
+se in X
+se not in Y
