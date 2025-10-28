@@ -3,8 +3,7 @@ text0 = "パトカー"
 text1 = "タクシー"
 ans = ""
 
-for i in range(len(text0)):
-    ans += text0[i]
-    ans += text1[i]
-
+for c0, c1 in zip(text0, text1):
+    ans += c0
+    ans += c1
 print(ans)
