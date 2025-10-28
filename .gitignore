@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+/nlp-100-2020/
+/git-test/
+
+
+
+/hello.py
+
+/05-test.py
+
+
+
+# Virtual environments
+.venv
